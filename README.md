@@ -46,6 +46,15 @@
 
 </LinearLayout>
 
+
+
+
+
+
+
+
+java
+
 package com.example.calculator;
 
 import android.app.Activity;
@@ -106,6 +115,55 @@ import android.widget.Toast;
          editText3.setText(String.valueOf(sum));
     }   }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   "businesscalculator"
   
 <?xml version="1.0" encoding="utf-8"?>
@@ -151,6 +209,8 @@ import android.widget.Toast;
         android:paddingTop="10dp" />
 </LinearLayout>
 
+ Java 
+
 package com.example.businesscalculator;
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -165,6 +225,56 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 "bounc"
         
 ?xml version="1.0" encoding="utf-8"?>
@@ -205,6 +315,8 @@ public class MainActivity extends Activity {
         android:width="80dp" />
 
 </shape>
+
+JAVA
 
 
 package com.example.bounc;
@@ -305,6 +417,26 @@ public class MainActivity extends Activity {
             }      });    }
     private int getDisplayHeight() {
         return this.getResources().getDisplayMetrics().heightPixels;    }    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   "backgroundcolorapp"
         
